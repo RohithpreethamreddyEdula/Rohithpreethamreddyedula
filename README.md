@@ -106,7 +106,7 @@ I'm a **GenAI Engineer** who builds enterprise AI systems for healthcare, bankin
 - Multi-step AI agents with tool calling and memory using LangGraph and CrewAI
 - LLM fine-tuning with LoRA/QLoRA and PEFT; guardrails, structured outputs, and evaluation frameworks to reduce hallucinations
 
-**AI/ML Engineer · Mindtree** · Bengaluru · *Jan 2022 to Jun 2023*
+**ML Engineer · Mindtree** · Bengaluru · *Jan 2022 to Jun 2023*
 - ML pipelines on AWS SageMaker; churn, network optimization, and anomaly detection models for telecom
 - Distributed and real-time data processing with Spark, Glue, Kafka, and Kinesis
 - MLOps, feature stores, and model monitoring with CloudWatch
