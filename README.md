@@ -113,15 +113,6 @@ I'm a **GenAI Engineer** who builds enterprise AI systems for healthcare, bankin
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**neetcode-gpt**](https://github.com/RohithpreethamreddyEdula/neetcode-gpt) | A GPT built from scratch, assembled from my NeetCode ML course submissions | Python, PyTorch |
-| [**ytclone**](https://github.com/RohithpreethamreddyEdula/ytclone) | A YouTube clone | |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
